@@ -1,0 +1,14 @@
+{
+  "name": "json-todo-server",
+  "version": "1.0.0",
+  "description": "Fake DB for simple todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "W Pederzoli",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

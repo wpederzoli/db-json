@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": "a70bd536-7708-473a-b4fe-89bd826fb9a6",
+        "type": "todo",
+        "task": "Something to do"
+      },
+      {
+        "id": "42ca008c-583f-4d0c-9c21-faaeab4e427a",
+        "type": "progress",
+        "task": "Something in progress"
+      },
+      {
+        "id": "d5f2088a-98bd-4865-b00f-8ce71b3a4205",
+        "type": "done",
+        "task": "Something done"
+      }
+    ]
+  }
